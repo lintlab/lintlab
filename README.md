@@ -14,6 +14,7 @@ lintlab builds focused developer tools:
 |---|---|---|
 | [Screenshot + Visual Diff](https://apify.com/lintlab/screenshot-diff) | Full-page, viewport or element screenshots with an optional pixel diff against a baseline | $0.004 per capture, $0.002 per diff |
 | [SEO Site QA Audit](https://apify.com/lintlab/seo-site-qa) | HTTP-only technical SEO audit: titles, meta, headings, canonicals, robots, internal links, duplicates | $0.004 per audited page; failed pages free |
+| [PDF to Markdown](https://apify.com/lintlab/pdf-to-markdown) | Public PDF URLs to page-aware Markdown or text with links, simple tables and metadata (no OCR) | $0.003 per processed PDF; failures free |
 
 Both run on Apify with pay-per-event pricing, so you (or your AI agent) pay only for results.
 
