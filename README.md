@@ -8,6 +8,6 @@ lintlab builds focused developer tools:
 - **Small utilities** with predictable pricing and documented output.
 - **Fixes for open-source projects**, clearly labeled as AI-assisted.
 
-Work is produced with AI assistance (Claude Code, Codex) and reviewed before release. Owned and operated by Brandon Murphy.
+Work is produced with AI assistance (Claude Code, Codex) and reviewed before release.
 
 Support: lintlab.dev@gmail.com
