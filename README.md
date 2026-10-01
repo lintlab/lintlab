@@ -23,4 +23,4 @@ All run on Apify with pay-per-event pricing, so you (or your AI agent) pay only 
 
 Every tool is tested before release.
 
-Support: lintlab.dev@gmail.com
+Support: hello@lintlab.dev
