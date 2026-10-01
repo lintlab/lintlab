@@ -10,7 +10,7 @@ lintlab builds focused developer tools:
 
 ## Live tools
 
-All tools, with API examples: **https://lintlab.pages.dev**
+All tools, with API examples: **https://lintlab.dev**
 
 | Tool | What it does | Price |
 |---|---|---|
