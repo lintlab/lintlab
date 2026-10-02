@@ -18,4 +18,8 @@ All tools, with API examples: **https://lintlab.dev**
 
 Apify prices are Free-plan rates with platform usage included; paid Apify plans pay less per event. You (or your AI agent) pay only for results.
 
+## Research
+
+- [XML sitemaps on the CrUX top-1k origins (measured October 2026)](https://lintlab.dev/xml-sitemap-study/): we found a sitemap on 400 of 916 origins and list the issues we measured in a sample of their files and URLs, with the method and limits.
+
 Support: hello@lintlab.dev
